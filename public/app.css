@@ -1,0 +1,12 @@
+body {
+    background: #4B91E2;
+    color: '#fff';
+}
+
+#brandinglogo {
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'center';
+    height: 60vh;
+    color: '#fff';
+}

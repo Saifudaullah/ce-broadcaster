@@ -1,0 +1,24 @@
+{
+  "name": "ce-broadcast-server",
+  "version": "1.0.0",
+  "description": "Codexpert socket io implementation server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon dist/app.js"
+  },
+  "author": "tajulasri@codexpert.my saifudaullah@codexpert.my",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "expressjs": "^1.0.1",
+    "moment": "^2.24.0",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^1.19.4"
+  }
+}
